@@ -3,7 +3,9 @@
 
 
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+<a href="https://github.com/shynzx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielisa&theme=dark&hide_langs_below=1" />
+</a>
 
 <!--
 **shynzx/shynzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
